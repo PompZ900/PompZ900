@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-João Pompeo, atualmente estou cursando Desenvolvimento de Sistemas no Senac Hub Academy.
+João Pompeo, atualmente cursando Desenvolvimento de Sistemas.
 
 <p align="left">
     </a> 
