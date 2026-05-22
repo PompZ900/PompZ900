@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-João Pompeo, atualmente cursando Desenvolvimento de Sistemas.
+Atualmente cursando Desenvolvimento de Sistemas.
 
 <p align="left">
     </a> 
