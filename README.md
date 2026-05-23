@@ -1,8 +1,6 @@
 # 👩🏻‍💻 João Pompeo
 
-**`Desenvolvedor Full Stack`**
-
-Atualmente cursando Desenvolvimento de Sistemas.
+Técnico em Desenvolvimento de Sistemas.
 
 <p align="left">
     </a> 
