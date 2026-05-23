@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Pompeo
+# 👩🏻‍💻
 
 Técnico em Desenvolvimento de Sistemas.
 
