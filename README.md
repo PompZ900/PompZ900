@@ -1,6 +1,6 @@
-# ⚔️🐱‍👤
+#🐱‍👤⚔️
 
-Técnico em Desenvolvimento de Sistemas.
+Técnico em Desenvolvimento de Sistemas
 
 <p align="left">
     </a> 
@@ -19,7 +19,7 @@ Técnico em Desenvolvimento de Sistemas.
 
 ---
 
-### 🤖 Linguagens e Tecnologias 
+### 📚 Linguagens e Tecnologias 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
