@@ -1,16 +1,15 @@
-#🐱‍👤⚔️
+#⚔️
+<div align="center">
 
-Técnico em Desenvolvimento de Sistemas
+<br/>
 
-<p align="left">
+[![GitHub followers](https://img.shields.io/github/followers/PompZ900?style=flat-square&color=2E0D14&labelColor=EFE1D5&label=Seguidores)](https://github.com/PompZ900)
+[![Profile Views](https://komarev.com/ghpvc/?username=CaioFarias-jpg&color=2E0D14&style=flat-square&label=Visitas)](https://github.com/PompZ900)
+
+</div>
     </a> 
     </a>
     <a href="https://github.com/PompZ900">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/PompZ900?label=Seguidores&style=social"
-        />
     </a>
       <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pompeo-955b49227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -19,7 +18,7 @@ Técnico em Desenvolvimento de Sistemas
 
 ---
 
-### 📚 Linguagens e Tecnologias 
+### 📚 Tech Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +34,6 @@ Técnico em Desenvolvimento de Sistemas
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.shion.dev/api?username=PompZ900&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=PompZ900&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=PompZ900&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
