@@ -30,10 +30,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-3b2b2f?style=for-the-badge&logo=visual-studio-code)
 ![n8n](https://img.shields.io/badge/n8n-3b2b2f?style=for-the-badge&logo=n8n&logoColor=efe1d5)
 
-## 🛢 Databases
+## 🏛️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-3b2b2f?style=for-the-badge&logo=mysql&logoColor=EFE1D5)
 
-## 📊 GitHub Stats:
+## ⚙️ GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=PompZ900&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=PompZ900&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
