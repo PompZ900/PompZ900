@@ -20,7 +20,6 @@
 ---
 
 ## ☕ Languages
-![VS Code](https://img.shields.io/badge/VS%20Code-3b2b2f?style=for-the-badge&logo=visual-studio-code)
 ![HTML](https://img.shields.io/badge/HTML5-3b2b2f?style=for-the-badge&logo=html5&logoColor=efe1d5)
 ![CSS](https://img.shields.io/badge/CSS3-3b2b2f?style=for-the-badge&logo=css3&logoColor=efe1d5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3b2b2f?style=for-the-badge&logo=javascript&logoColor=efe1d5)
@@ -37,9 +36,11 @@
 ## 💻 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-3b2b2f?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-3b2b2f?style=for-the-badge&logo=git&logoColor=efe1d5)
+![VS Code](https://img.shields.io/badge/VS%20Code-3b2b2f?style=for-the-badge&logo=visual-studio-code)
+![n8n](https://img.shields.io/badge/n8n-3b2b2f?style=for-the-badge&logo=n8n&logoColor=efe1d5)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-3b2b2f?style=for-the-badge&logo=microsoft-office&logoColor=efe1d5)
 ![Figma](https://img.shields.io/badge/Figma-3b2b2f?style=for-the-badge&logo=figma&logoColor=efe1d5)
-![n8n](https://img.shields.io/badge/n8n-3b2b2f?style=for-the-badge&logo=n8n&logoColor=efe1d5)
+
 
 ## ✉️ Contacts
  <div> 
