@@ -1,6 +1,4 @@
 🔱
-<div align="center">
-
 <br/>
 
 
@@ -12,6 +10,12 @@
     <a href="https://github.com/PompZ900">
     </a>
 </p>
+ </a>
+    <a href="https://github.com/PompZ900">
+    </a>
+      <div> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pompeo-955b49227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3b2b2f?style=for-the-badge&logo=linkedin&logoColor=efe1d5" target="_blank"></a>
+</div>
 
 ---
 
@@ -29,13 +33,20 @@
     </a>
     <a href="https://github.com/PompZ900">
     </a>
-      <div> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pompeo-955b49227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3b2b2f?style=for-the-badge&logo=linkedin&logoColor=efe1d5" target="_blank"></a>
-</div>
-</p>
 
 ## 🏛️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-3b2b2f?style=for-the-badge&logo=mysql&logoColor=EFE1D5)
+
+## 💻 Tools
+![Git](https://img.shields.io/badge/Git-3b2b2f?style=for-the-badge&logo=git&logoColor=efe1d5)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-3b2b2f?style=for-the-badge&logo=microsoft-office&logoColor=efe1d5)
+![Figma](https://img.shields.io/badge/Figma-3b2b2f?style=for-the-badge&logo=figma&logoColor=efe1d5)
+
+## ✉️ Contacts
+ <div> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pompeo-955b49227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3b2b2f?style=for-the-badge&logo=linkedin&logoColor=efe1d5" target="_blank"></a>
+</div>
+
 
 ## ⚙️ GitHub Stats:
 <div align="center">
@@ -43,11 +54,11 @@
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&hide_border=true&bg_color=242715&title_color=EFE1D5&text_color=E6E6E6&icon_color=EFE1D5" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&hide_border=true&bg_color=242715&title_color=EFE1D5&text_color=EFE1D5&icon_color=EFE1D5" />
 </td>
 
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&layout=compact&hide_border=true&bg_color=242715&title_color=C9A227&text_color=EFE1D5" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&layout=compact&hide_border=true&bg_color=242715&title_color=EFE1D5&text_color=EFE1D5" />
 </td>
 </tr>
 </table>
