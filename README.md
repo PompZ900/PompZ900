@@ -11,9 +11,6 @@
     </a>
     <a href="https://github.com/PompZ900">
     </a>
-      <div> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pompeo-955b49227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3b2b2f?style=for-the-badge&logo=linkedin&logoColor=efe1d5" target="_blank"></a>
-</div>
 </p>
 
 ---
@@ -28,6 +25,14 @@
 ![Git](https://img.shields.io/badge/Git-3b2b2f?style=for-the-badge&logo=git&logoColor=efe1d5)
 ![GitHub](https://img.shields.io/badge/GitHub-3b2b2f?style=for-the-badge&logo=github)
 ![n8n](https://img.shields.io/badge/n8n-3b2b2f?style=for-the-badge&logo=n8n&logoColor=efe1d5)
+</a>
+    </a>
+    <a href="https://github.com/PompZ900">
+    </a>
+      <div> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pompeo-955b49227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3b2b2f?style=for-the-badge&logo=linkedin&logoColor=efe1d5" target="_blank"></a>
+</div>
+</p>
 
 ## 🏛️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-3b2b2f?style=for-the-badge&logo=mysql&logoColor=EFE1D5)
