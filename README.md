@@ -19,15 +19,14 @@
 ---
 
 ## ☕ Tech Stacks
-
-![Python](https://img.shields.io/badge/Python-3b2b2f?style=for-the-badge&logo=python&logoColor=efe1d5)
+![VS Code](https://img.shields.io/badge/VS%20Code-3b2b2f?style=for-the-badge&logo=visual-studio-code)
 ![HTML](https://img.shields.io/badge/HTML5-3b2b2f?style=for-the-badge&logo=html5&logoColor=efe1d5)
 ![CSS](https://img.shields.io/badge/CSS3-3b2b2f?style=for-the-badge&logo=css3&logoColor=efe1d5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3b2b2f?style=for-the-badge&logo=javascript&logoColor=efe1d5)
+![Python](https://img.shields.io/badge/Python-3b2b2f?style=for-the-badge&logo=python&logoColor=efe1d5)
 ![PHP](https://img.shields.io/badge/php-3b2b2f?style=for-the-badge&logo=php&logoColor=efe1d5)
 ![Git](https://img.shields.io/badge/Git-3b2b2f?style=for-the-badge&logo=git&logoColor=efe1d5)
 ![GitHub](https://img.shields.io/badge/GitHub-3b2b2f?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-3b2b2f?style=for-the-badge&logo=visual-studio-code)
 ![n8n](https://img.shields.io/badge/n8n-3b2b2f?style=for-the-badge&logo=n8n&logoColor=efe1d5)
 
 ## 🏛️ Databases
