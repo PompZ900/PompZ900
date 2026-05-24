@@ -13,8 +13,6 @@
  </a>
     <a href="https://github.com/PompZ900">
     </a>
-      <div> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pompeo-955b49227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3b2b2f?style=for-the-badge&logo=linkedin&logoColor=efe1d5" target="_blank"></a>
 </div>
 
 ---
@@ -42,7 +40,7 @@
 ![Figma](https://img.shields.io/badge/Figma-3b2b2f?style=for-the-badge&logo=figma&logoColor=efe1d5)
 
 
-## ✉️ Contacts
+## ✉️ Contact
  <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pompeo-955b49227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3b2b2f?style=for-the-badge&logo=linkedin&logoColor=efe1d5" target="_blank"></a>
 </div>
