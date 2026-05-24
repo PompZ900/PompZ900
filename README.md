@@ -33,6 +33,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-3b2b2f?style=for-the-badge&logo=mysql&logoColor=EFE1D5)
 
 ## ⚙️ GitHub Stats:
-![](https://streak-stats.demolab.com/?user=PompZ900&hide_border=true&background=242715&ring=fe420f&fire=ff2400&currStreakNum=EFE1D5&sideNums=EFE1D5&currStreakLabel=f37021&sideLabels=EFE1D5&dates=EFE1D5)<br/>
-![](https://github-readme-stats.shion.dev/api?username=PompZ900&theme=dark&hide_border=true&title_color=EFE1D5&text_color=EFE1D5&icon_color=8b7355&bg_color=242715)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=242715)
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&theme=dark&hide_border=true" />
+</td>
+
+<td>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&theme=dark&hide_border=true&layout=compact" />
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=PompZ900&theme=dark&hide_border=true" />
