@@ -33,16 +33,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-3b2b2f?style=for-the-badge&logo=mysql&logoColor=EFE1D5)
 
 ## ⚙️ GitHub Stats:
+<div align="center">
+
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&theme=dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&hide_border=true&bg_color=242715&title_color=EFE1D5&text_color=E6E6E6&icon_color=EFE1D5" />
 </td>
 
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&theme=dark&hide_border=true&layout=compact" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&layout=compact&hide_border=true&bg_color=242715&title_color=C9A227&text_color=EFE1D5" />
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=PompZ900&theme=dark&hide_border=true" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=PompZ900&hide_border=true&background=242715&ring=f24405&fire=ff3503&currStreakNum=EFE1D5&sideNums=EFE1D5" />
+
+</div>
