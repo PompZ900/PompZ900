@@ -31,7 +31,7 @@
 ## 🏛️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-3b2b2f?style=for-the-badge&logo=mysql&logoColor=EFE1D5)
 
-## 💻 Tools
+## 🛠️ Tools
 ![GitHub](https://img.shields.io/badge/GitHub-3b2b2f?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-3b2b2f?style=for-the-badge&logo=git&logoColor=efe1d5)
 ![VS Code](https://img.shields.io/badge/VS%20Code-3b2b2f?style=for-the-badge&logo=visual-studio-code)
@@ -52,15 +52,15 @@
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&hide_border=true&bg_color=000051&title_color=EFE1D5&text_color=EFE1D5&icon_color=EFE1D5" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&hide_border=true&bg_color=000011&title_color=EFE1D5&text_color=EFE1D5&icon_color=EFE1D5" />
 </td>
 
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&layout=compact&hide_border=true&bg_color=000051&title_color=EFE1D5&text_color=EFE1D5" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&layout=compact&hide_border=true&bg_color=000011&title_color=EFE1D5&text_color=EFE1D5" />
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=PompZ900&hide_border=true&background=000051&ring=361408&fire=99541b&currStreakNum=EFE1D5&sideNums=EFE1D5&currStreakLabel=ffffff&sideLabels=ffffff&dates=9aa4b2&stroke=2a3547" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=PompZ900&hide_border=true&background=000011&ring=5b5b5b&fire=bcbcbc&currStreakNum=EFE1D5&sideNums=EFE1D5&currStreakLabel=ffffff&sideLabels=ffffff&dates=9aa4b2&stroke=2a3547" />
 
 </div>
