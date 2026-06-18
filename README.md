@@ -61,6 +61,6 @@
 </tr>
 </table>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=PompZ900&hide_border=true&background=000011&ring=5b5b5b&fire=bcbcbc&currStreakNum=EFE1D5&sideNums=EFE1D5&currStreakLabel=ffffff&sideLabels=ffffff&dates=9aa4b2&stroke=2a3547" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=PompZ900&hide_border=true&background=000011&ring=5b5b5b&fire=bcbcbc&currStreakNum=EFE1D5&sideNums=EFE1D5&currStreakLabel=ffffff&sideLabels=ffffff&dates=9aa4b2&stroke=2a3547"/>
 
 </div>
