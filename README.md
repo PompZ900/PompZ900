@@ -52,11 +52,11 @@
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&hide_border=true&bg_color=000011&title_color=EFE1D5&text_color=EFE1D5&icon_color=EFE1D5" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&hide_border=true&bg_color=F0EDE5&title_color=060D0C&text_color=060D0C&icon_color=060D0C" />
 </td>
 
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&layout=compact&hide_border=true&bg_color=000011&title_color=EFE1D5&text_color=EFE1D5" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&layout=compact&hide_border=true&bg_color=F0EDE5&title_color=060D0C&text_color=060D0C" />
 </td>
 </tr>
 </table>
