@@ -52,15 +52,15 @@
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&hide_border=true&bg_color=F0EDE5&title_color=060D0C&text_color=060D0C&icon_color=060D0C" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=PompZ900&hide_border=true&bg_color=03001a&title_color=F0EDE5&text_color=F0EDE5&icon_color=F0EDE5" />
 </td>
 
 <td>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&layout=compact&hide_border=true&bg_color=F0EDE5&title_color=060D0C&text_color=060D0C" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=PompZ900&layout=compact&hide_border=true&bg_color=03001a&title_color=F0EDE5&text_color=F0EDE5" />
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=PompZ900&hide_border=true&background=000011&ring=aa0e1b&fire=e61224&currStreakNum=EFE1D5&sideNums=EFE1D5&currStreakLabel=ffffff&sideLabels=ffffff&dates=9aa4b2&stroke=2a3547"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=PompZ900&hide_border=true&background=03001a&ring=ad5c0a&fire=f08a24&currStreakNum=EFE1D5&sideNums=EFE1D5&currStreakLabel=ffffff&sideLabels=ffffff&dates=9aa4b2&stroke=2a3547"/>
 
 </div>
